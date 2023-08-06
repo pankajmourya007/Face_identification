@@ -28,7 +28,7 @@ The Face Identification Tool is a Python-based application that uses computer vi
 
 3. Next 
 
-```cd Face_identification```
+   ```cd Face_identification```
 
 4. Install Required Python libraries and modules
 
