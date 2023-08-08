@@ -40,3 +40,32 @@ The Face Identification Tool is a Python-based application that uses computer vi
    ``` python3 main.py```
 
  
+
+## Authors
+
+- [@Pankaj Mourya](https://www.github.com/pankajmourya007)
+
+
+## Demo
+
+ScreenShot
+
+
+![image](https://github.com/pankajmourya007/Face_identification/assets/85764254/58a7a958-d443-4f26-9ef3-5330dab0fd54)
+
+
+
+
+
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
+
+## Features
+
+
+- Live Working
+- Fullscreen mode
+- Cross platform
+
