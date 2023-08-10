@@ -12,8 +12,8 @@ The Face Identification Tool is a Python-based application that uses computer vi
 
 ## Prerequisites
 
-- Python 3.x
-- Required Python libraries: OpenCV, face_recognition, mysql-connector-python, pyttsx3, cvzone (Note: You may need to install additional libraries as well, depending on your setup.)
+- Python 3.x +
+- Required Python libraries: `OpenCV,` `face_recognition,` `mysql-connector-python,` `pyttsx3,` `cvzone` (Note: You may need to install additional libraries as well, depending on your setup.)
 
 ## Getting Started
 
