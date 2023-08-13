@@ -68,6 +68,7 @@ ScreenShot
 - Live Working
 - Fullscreen mode
 - Cross platform
+- You can install in any linux or windows system also
 
 
 ## Badges
