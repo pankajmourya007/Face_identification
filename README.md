@@ -61,6 +61,14 @@ ScreenShot
 
 [Documentation](https://pdfroom.com/books/face-identification-tool/bXgPNEKB5ev)
 
+## Acknowledgements
+
+- [OpenCV](https://opencv.org/)
+- [face_recognition](https://github.com/ageitgey/face_recognition)
+- [mysql-connector-python](https://pypi.org/project/mysql-connector-python/)
+- [pyttsx3](https://pypi.org/project/pyttsx3/)
+- [cvzone](https://github.com/cvzone/cvzone)
+
 
 ## Features
 
