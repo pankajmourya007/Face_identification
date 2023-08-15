@@ -78,6 +78,9 @@ ScreenShot
 - Cross platform
 - You can install in any linux or windows system also
 
+## Contact
+
+For questions or inquiries, please contact [Pankaj Mourya](pankaj2k21mourya007@gmail.com).
 
 ## Badges
 
