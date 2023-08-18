@@ -21,16 +21,20 @@ The Face Identification Tool is a Python-based application that uses computer vi
 
    ```sudo apt-get update```
 
+2. Install updated Python
 
-2. Clone this repository to your local machine:
+   ```sudo apt install python -y```
+
+
+4. Clone this repository to your local machine:
 
    ```git clone https://github.com/pankajmourya007/Face_identification.git```
 
-3. Next 
+5. Next 
 
    ```cd Face_identification```
 
-4. Install Required Python libraries and modules
+6. Install Required Python libraries and modules
 
    ```pip install -r requirements.txt```
 
