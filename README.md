@@ -41,12 +41,14 @@ The Face Identification Tool is a Python-based application that uses computer vi
 7. Install dlib module (For linux distro).
 
    ```pip install dlib``` 
-   
 
+8. You can install dlib manually (Windows user)
 
-4. Now Run the main file
+    [Source Distribution](https://files.pythonhosted.org/packages/2e/9d/4e1003c044bdb07f7c0d83ae87d694e10e5a6c296b84566aa9a6ec9eed2a/dlib-19.24.2.tar.gz)
 
-   ``` python3 main.py```
+9. Now Run the main file
+
+    ``` python3 main.py```
 
  
 
