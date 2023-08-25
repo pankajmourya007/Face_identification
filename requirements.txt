@@ -27,7 +27,6 @@ cycler==0.11.0
 DateTime==5.1
 db==0.1.1
 distlib==0.3.6
-dlib @ file:///C:/Users/PANKA/Downloads/dlib-19.24.1-cp311-cp311-win_amd64.whl#sha256=6f1a5ee167975d7952b28e0ce4495f1d9a77644761cf5720fb66d7c6188ae496
 docopt==0.6.2
 face==22.0.0
 face-recognition==1.3.0
