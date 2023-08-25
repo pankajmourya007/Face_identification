@@ -38,6 +38,11 @@ The Face Identification Tool is a Python-based application that uses computer vi
 
    ```pip install -r requirements.txt```
 
+7. Install dlib module (For linux distro).
+
+   ```pip install dlib``` 
+   
+
 
 4. Now Run the main file
 
@@ -72,6 +77,7 @@ ScreenShot
 - [mysql-connector-python](https://pypi.org/project/mysql-connector-python/)
 - [pyttsx3](https://pypi.org/project/pyttsx3/)
 - [cvzone](https://github.com/cvzone/cvzone)
+- [dlib](https://pypi.org/project/dlib/)
 
 
 ## Features
