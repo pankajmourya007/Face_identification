@@ -70,7 +70,7 @@ ScreenShot
 
 ## Documentation
 
-[Documentation](https://pdfroom.com/books/face-identification-tool/bXgPNEKB5ev111){404}
+[Documentation](https://pdfroom.com/books/face-identification-tool/bXgPNEKB5ev)
 
 ## Acknowledgements
 
