@@ -83,7 +83,7 @@ opencv-python==4.8.0.74
 opt-einsum==3.3.0
 packaging==23.1
 pandas==2.0.3
-paramiko==3.2.0
+paramiko==3.4.0
 pickl==0.3.0
 Pillow==10.0.1
 pipreqs==0.4.13
